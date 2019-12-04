@@ -6,3 +6,6 @@
 ##      Things I Enjoy Doing
 - [Gaming](https://noahkirsch20.github.io/Gaming/)
 - [Outdoor Activities](https://noahkirsch20.github.io/Outdoor/)
+
+## Places I Have Been To
+- [States / Cities]()
