@@ -5,4 +5,4 @@
 ---
 ##      Things I Enjoy Doing
 - [Gaming](https://noahkirsch20.github.io/Gaming/)
-- [Outdoor Activities]()
+- [Outdoor Activities](https://noahkirsch20.github.io/Outdoor/)
