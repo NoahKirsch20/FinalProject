@@ -1,6 +1,6 @@
 # Things that I enjoy watching
 - [College Football](https://noahkirsch20.github.io/College-Football/)
-- [Comedies]()
+- [Comedies](https://noahkirsch20.github.io/Comedies/)
 
 ---
 ##      Things I Enjoy Doing
