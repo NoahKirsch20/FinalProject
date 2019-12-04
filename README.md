@@ -1,7 +1,7 @@
 # **About Me**
 
-__
-__
+___
+___
 ## Things that I enjoy watching
 - [College Football](https://noahkirsch20.github.io/College-Football/)
 - [Comedies](https://noahkirsch20.github.io/Comedies/)
