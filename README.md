@@ -3,6 +3,6 @@
 - [Comedies]()
 
 ---
-## Things I Enjoy Doing
+##      Things I Enjoy Doing
 - [Gaming](https://noahkirsch20.github.io/Gaming/)
 - [Outdoor Activities]()
