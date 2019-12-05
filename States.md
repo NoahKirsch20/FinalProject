@@ -18,7 +18,7 @@ Within those states I have been to *biggest* cities inside them.
 - [Columbus](https://en.wikipedia.org/wiki/Columbus,_Ohio)
 
 ### Navigation
-- [Home Page](https://github.com/NoahKirsch20/FinalProject/tree/master)
+- [Home Page](https://github.com/NoahKirsch20/FinalProject/blob/master/README.md)
 - [College Football](https://github.com/NoahKirsch20/FinalProject/blob/master/Football.md)
 - [Comedies](https://github.com/NoahKirsch20/FinalProject/blob/master/Comedy.md)
 - [Gaming](https://github.com/NoahKirsch20/FinalProject/blob/master/Gaming.md)
