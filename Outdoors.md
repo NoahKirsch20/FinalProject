@@ -13,7 +13,7 @@ ___
 ![](https://bloximages.chicago2.vip.townnews.com/lakeexpo.com/content/tncms/assets/v3/editorial/0/89/08904fca-6800-11e8-ab85-fbc903b253f3/5b154717dcaa4.image.jpg?resize=1200%2C800)
 
 ### Navigation
-- [Home Page](https://github.com/NoahKirsch20/FinalProject)
+- [Home Page](https://github.com/NoahKirsch20/FinalProject/tree/master)
 - [College Football](https://github.com/NoahKirsch20/FinalProject/blob/master/Football.md)
 - [Comedies](https://github.com/NoahKirsch20/FinalProject/blob/master/Comedy.md)
 - [Gaming](https://github.com/NoahKirsch20/FinalProject/blob/master/Gaming.md)
