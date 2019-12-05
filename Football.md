@@ -18,7 +18,7 @@ ___
 5. [Utah](https://www.google.com/search?q=utah+football&oq=utah+football&aqs=chrome..69i57j0l7.3337j0j9&sourceid=chrome&ie=UTF-8#sie=t;/m/04n7ps6;6;/m/012hfxch;mt;fp;1;;)
 
 ### Navigation
-- [Home Page](https://github.com/NoahKirsch20/FinalProject/tree/master)
+- [Home Page](https://github.com/NoahKirsch20/FinalProject/blob/master/README.md)
 - [Travel](https://github.com/NoahKirsch20/FinalProject/blob/master/States.md)
 - [Comedies](https://github.com/NoahKirsch20/FinalProject/blob/master/Comedy.md)
 - [Gaming](https://github.com/NoahKirsch20/FinalProject/blob/master/Gaming.md)
