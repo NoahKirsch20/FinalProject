@@ -22,7 +22,7 @@ I enjoy watching comedies because they help me relax. They also help me get in a
 - [Zombieland](https://en.wikipedia.org/wiki/Zombieland)
 
 ### Navigation
-- [Home Page](https://github.com/NoahKirsch20/FinalProject/tree/master)
+- [Home Page](https://github.com/NoahKirsch20/FinalProject/blob/master/README.md)
 - [College Football](https://github.com/NoahKirsch20/FinalProject/blob/master/Football.md)
 - [Travel](https://github.com/NoahKirsch20/FinalProject/blob/master/States.md)
 - [Gaming](https://github.com/NoahKirsch20/FinalProject/blob/master/Gaming.md)
