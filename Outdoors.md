@@ -14,7 +14,7 @@ ___
 
 ### Navigation
 - [Home Page](https://github.com/NoahKirsch20/FinalProject)
-- [College Football](https://noahkirsch20.github.io/College-Football/)
+- [College Football](https://github.com/NoahKirsch20/FinalProject/blob/master/Football.md)
 - [Outdoors](https://noahkirsch20.github.io/Comedies/)
 - [Gaming](https://noahkirsch20.github.io/Gaming/)
 - [Travel](https://noahkirsch20.github.io/States/)
