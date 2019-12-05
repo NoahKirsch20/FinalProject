@@ -22,3 +22,12 @@ ___
 - [Comedies](https://github.com/NoahKirsch20/FinalProject/blob/master/Comedy.md)
 - [Gaming](https://github.com/NoahKirsch20/FinalProject/blob/master/Gaming.md)
 - [Outdoors](https://github.com/NoahKirsch20/FinalProject/blob/master/Outdoors.md)
+
+'''
+teams = ['Ohio State', 'LSU', 'Clemson', 'Georgia', 'Utah']
+teampick = input('What is one of the top 5 teams currently?: ")
+if(teampick == teams):
+  print("That is one of them!")
+else:
+  print("I am sorry that is not one of them")
+'''
