@@ -2,7 +2,7 @@
 
 ___
 ## Things that I enjoy watching
-- [College Football](https://github.com/NoahKirsch20/FinalProject/blob/master/Football/)
+- [College Football](https://github.com/NoahKirsch20/FinalProject/blob/master/Football.md)
 - [Comedies](https://noahkirsch20.github.io/Comedies/)
 
 ---
