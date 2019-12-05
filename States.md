@@ -19,7 +19,7 @@ Within those states I have been to *biggest* cities inside them.
 
 ### Navigation
 - [Home Page](https://noahkirsch20.github.io/FinalProject/)
-- [College Football](https://noahkirsch20.github.io/College-Football/)
-- [Comedies](https://noahkirsch20.github.io/Comedies/)
-- [Gaming](https://noahkirsch20.github.io/Gaming/)
-- [Outdoors](https://noahkirsch20.github.io/Outdoor/)
+- [College Football](https://github.com/NoahKirsch20/FinalProject/blob/master/Football.md)
+- [Comedies](https://github.com/NoahKirsch20/FinalProject/blob/master/Comedy.md)
+- [Gaming](https://github.com/NoahKirsch20/FinalProject/blob/master/Gaming.md)
+- [Outdoors](https://github.com/NoahKirsch20/FinalProject/blob/master/Outdoors.md)
