@@ -24,6 +24,6 @@ I enjoy watching comedies because they help me relax and get a good laugh in.
 ### Navigation
 - [Home Page](https://github.com/NoahKirsch20/FinalProject/tree/master)
 - [College Football](https://github.com/NoahKirsch20/FinalProject/blob/master/Football.md)
-- [Travel]((https://github.com/NoahKirsch20/FinalProject/blob/master/States.md)
+- [Travel](https://github.com/NoahKirsch20/FinalProject/blob/master/States.md)
 - [Gaming](https://github.com/NoahKirsch20/FinalProject/blob/master/Gaming.md)
 - [Outdoors](https://github.com/NoahKirsch20/FinalProject/blob/master/Outdoors.md)
