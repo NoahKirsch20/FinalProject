@@ -22,7 +22,7 @@ ___
 
 ### Navigation
 - [Home Page](https://noahkirsch20.github.io/FinalProject/)
-- [College Football](https://noahkirsch20.github.io/College-Football/)
-- [Comedies](https://noahkirsch20.github.io/Comedies/)
-- [Travel](https://noahkirsch20.github.io/States/)
-- [Outdoors](https://noahkirsch20.github.io/Outdoor/)
+- [College Football](https://github.com/NoahKirsch20/FinalProject/blob/master/Football.md)
+- [Comedies](https://github.com/NoahKirsch20/FinalProject/blob/master/Comedy.md)
+- [Travel](https://github.com/NoahKirsch20/FinalProject/blob/master/States.md)
+- [Outdoors](https://github.com/NoahKirsch20/FinalProject/blob/master/Outdoors.md)
