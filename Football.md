@@ -1,6 +1,7 @@
 ___
  College football is one of my
  **favorite** sports. I watch every big ranked vs ranked game that I can. 
+ My favorite *time* during football season is the College Football Playoff and **Rivalry Week** because those games bring the best out of the time teams.
  
 ___
 ## My Favorite Team
