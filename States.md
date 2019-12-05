@@ -23,3 +23,18 @@ Within those states I have been to *biggest* cities inside them.
 - [Comedies](https://github.com/NoahKirsch20/FinalProject/blob/master/Comedy.md)
 - [Gaming](https://github.com/NoahKirsch20/FinalProject/blob/master/Gaming.md)
 - [Outdoors](https://github.com/NoahKirsch20/FinalProject/blob/master/Outdoors.md)
+
+```
+do_again = True
+while(do_again)
+  travel = input("Do you do alot of travel? (y/n): ")
+  if travel == 'y'
+    ask = input("where did you go?: ")
+    print("I am glad to hear about your travel to", ask)
+   else:
+    print("You should try it out!")
+    
+    do_again = input("Would you like to be asked again?: ")
+    if do_again != 'y'
+      do_again = False
+```
