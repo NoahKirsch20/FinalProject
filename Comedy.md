@@ -30,7 +30,7 @@ I enjoy watching comedies because they help me relax. They also help me get in a
 
 ```
 favoriteShows = input("How many favorite shows do you have in terms of numbers?: ")
-favoriteShows = int(favoriteShows
+favoriteShows = int(favoriteShows)
 if favoriteShows < 3:
   what = input("What are your favorite shows?: ")
   print("Your favorite shows are: ", what)
