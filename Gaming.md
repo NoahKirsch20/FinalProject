@@ -21,7 +21,7 @@ ___
 5. [Grand Theft Auto 5](https://www.rockstargames.com/V/restricted-content/agegate/form?redirect=https%3A%2F%2Fwww.rockstargames.com%2FV%2F&options=&locale=en_us)
 
 ### Navigation
-- [Home Page](https://noahkirsch20.github.io/FinalProject/)
+- [Home Page](https://github.com/NoahKirsch20/FinalProject/tree/master)
 - [College Football](https://github.com/NoahKirsch20/FinalProject/blob/master/Football.md)
 - [Comedies](https://github.com/NoahKirsch20/FinalProject/blob/master/Comedy.md)
 - [Travel](https://github.com/NoahKirsch20/FinalProject/blob/master/States.md)
