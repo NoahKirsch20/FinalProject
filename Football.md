@@ -18,7 +18,7 @@ ___
 
 ### Navigation
 - [Home Page](https://github.com/NoahKirsch20/FinalProject/tree/master)
-- [Travel](https://noahkirsch20.github.io/States/)
-- [Comedies](https://noahkirsch20.github.io/Comedies/)
-- [Gaming](https://noahkirsch20.github.io/Gaming/)
-- [Outdoors](https://noahkirsch20.github.io/Outdoor/)
+- [Travel](https://github.com/NoahKirsch20/FinalProject/blob/master/States.md)
+- [Comedies](https://github.com/NoahKirsch20/FinalProject/blob/master/Comedy.md)
+- [Gaming](https://github.com/NoahKirsch20/FinalProject/blob/master/Gaming.md)
+- [Outdoors](https://github.com/NoahKirsch20/FinalProject/blob/master/Outdoors.md)
