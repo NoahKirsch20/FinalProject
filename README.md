@@ -7,7 +7,7 @@ ___
 
 ---
 ##      Things I Enjoy Doing
-- [Gaming](https://noahkirsch20.github.io/Gaming/)
+- [Gaming](https://github.com/NoahKirsch20/FinalProject/blob/master/Gaming.md)
 - [Outdoor Activities](https://github.com/NoahKirsch20/FinalProject/blob/master/Outdoors.md)
 
 ## Places I Have Been To
