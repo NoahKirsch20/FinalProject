@@ -27,8 +27,15 @@ ___
 ```
 teams = ['Ohio State', 'LSU', 'Clemson', 'Georgia', 'Utah']
 teampick = input('What is one of the top 5 teams currently?: ")
+favorite = 'Ohio State'
+favoriteTeam = input("Which team is your favorite?: ")
 if(teampick == teams):
   print("That is one of them!")
 else:
   print("I am sorry that is not one of them")
+
+if(favorite == favoriteTeam):
+ print("We both like the same team")
+else
+ print("That is a good team")
 ```
