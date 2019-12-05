@@ -15,6 +15,6 @@ ___
 ### Navigation
 - [Home Page](https://github.com/NoahKirsch20/FinalProject)
 - [College Football](https://github.com/NoahKirsch20/FinalProject/blob/master/Football.md)
-- [Outdoors](https://noahkirsch20.github.io/Comedies/)
-- [Gaming](https://noahkirsch20.github.io/Gaming/)
-- [Travel](https://noahkirsch20.github.io/States/)
+- [Comedies](https://github.com/NoahKirsch20/FinalProject/blob/master/Comedy.md)
+- [Gaming](https://github.com/NoahKirsch20/FinalProject/blob/master/Gaming.md)
+- [Travel](https://github.com/NoahKirsch20/FinalProject/blob/master/States.md)
