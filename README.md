@@ -11,4 +11,4 @@ ___
 - [Outdoor Activities](https://github.com/NoahKirsch20/FinalProject/blob/master/Outdoors.md)
 
 ## Places I Have Been To
-- [States / Cities](https://noahkirsch20.github.io/States/)
+- [States / Cities](https://github.com/NoahKirsch20/FinalProject/blob/master/States.md)
