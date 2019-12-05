@@ -27,3 +27,14 @@ I enjoy watching comedies because they help me relax. They also help me get in a
 - [Travel](https://github.com/NoahKirsch20/FinalProject/blob/master/States.md)
 - [Gaming](https://github.com/NoahKirsch20/FinalProject/blob/master/Gaming.md)
 - [Outdoors](https://github.com/NoahKirsch20/FinalProject/blob/master/Outdoors.md)
+
+```
+favoriteShows = input("How many favorite shows do you have in terms of numbers?: ")
+favoriteShows = int(favoriteShows
+if favoriteShows < 3:
+  what = input("What are your favorite shows?: ")
+  print("Your favorite shows are: ", what)
+else:
+  print("Thats alot of favorite shows! I bet they are really good!")
+
+```
