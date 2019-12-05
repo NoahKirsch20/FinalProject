@@ -1,5 +1,5 @@
 # Comedies
-I enjoy watching comedies because they help me relax and get a good laugh in.
+I enjoy watching comedies because they help me relax. They also help me get in a good laugh and helps me better a day.
 # My Favorite Comedy 
 - [The Big Bang Theory](https://en.wikipedia.org/wiki/The_Big_Bang_Theory)
 
