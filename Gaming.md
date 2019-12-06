@@ -1,6 +1,6 @@
 # Gaming
 ___
-Gaming is something that I love doing. I have been doing it ever since I was a little kid.
+**Gaming** is something that I love doing. I have been doing it ever since I was a *little kid*.
 I play multiple genre's when it comes to gaming. 
 Some of my favorite games are **World of Warcraft**, Call of Duty, *The GTA series*, and other sorts of **MMO** games.
 
