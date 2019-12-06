@@ -18,3 +18,28 @@ ___
 - [Comedies](https://github.com/NoahKirsch20/FinalProject/blob/master/Comedy.md)
 - [Gaming](https://github.com/NoahKirsch20/FinalProject/blob/master/Gaming.md)
 - [Travel](https://github.com/NoahKirsch20/FinalProject/blob/master/States.md)
+
+```
+from random import randint
+activity = ['Fishing', 'Hiking', 'Sports']
+favorite = activity[randint(0,2)]
+print("One of my activities to do outdoors is: ", favorite)
+
+userfavorite = input("What is your favorite outdoor activity?: ")
+
+if userfavorite == favorite:
+  print("We enjoy doing the same outdoor activity, That is really cool!")
+else:
+  print("Your favorite outdoor activity is: ", userfavorite)
+  print("That is really cool!")
+  
+again = input("What else do you like to do?: ")
+print ("Another of your favorite activities is: ", again)
+
+if again == favorite:
+  print("We both enjoy doing", again, "We should do that activity together some time!")
+else:
+  print(again, "is a really nice activity!")
+  
+
+```
