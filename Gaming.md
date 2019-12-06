@@ -26,3 +26,17 @@ ___
 - [Comedies](https://github.com/NoahKirsch20/FinalProject/blob/master/Comedy.md)
 - [Travel](https://github.com/NoahKirsch20/FinalProject/blob/master/States.md)
 - [Outdoors](https://github.com/NoahKirsch20/FinalProject/blob/master/Outdoors.md)
+
+```
+from random import randint
+games = ['WoW', 'Diable 3', 'CSGO', 'GTA', 'Call of Duty']
+game = games[randint(0,4)]
+print("One of my favorite games is: ", game)
+
+usergame = input("What is your favorite game?: ")
+
+if usergame == game:
+  print("We enjoy the same game!, let's play sometime.")
+else:
+  print("Your favorite game is: ", usergame)
+```
