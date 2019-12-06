@@ -1,5 +1,5 @@
 # Outdoor Activites
-I love to hike around national parks and mostly **fishing** when it comes to my outdoor activities. The most fun I have is when I go fishing because it is very relaxing to be out on the water, sometimes during the early morning when it is **quiet**.
+I like to **hike** around *national parks* and mostly **fishing** when it comes to my outdoor activities. The most fun I have is when I go *fishing* because it is very relaxing to be out on the water, sometimes during the early morning when it is **quiet**.
 
 ___
 # Some of My *Recent* Outdoor Activities
